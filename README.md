@@ -2,7 +2,7 @@
 ## overview
 Here we will learn how to write shell scripting for the below tasks,
 * [changing a directory](https://github.com/rasmithe1/introductionToShellScript/blob/main/changeDirectory.sh)
-* [create a directory] ()
+* [create a directory] (https://github.com/rasmithe1/introductionToShellScript/blob/main/changeDirectory.sh)
 
 
 
